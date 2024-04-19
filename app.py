@@ -2,7 +2,7 @@ import google.generativeai as genai
 import streamlit as st
 
 # Read Gemini API key from file
-f = open(r"Gemini_API_KEY.txt")
+f = open(r"YOUR_API_KEY")
 key = f.read()
 
 # Configure Gemini API
