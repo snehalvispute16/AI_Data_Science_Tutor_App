@@ -8,7 +8,7 @@ DataMentor📝 is an Conversational AI Data Science Tutor designed to assist use
 ## Key Features
 
 - **Choose a Topic:** Dive into the world of data science by selecting a topic topics such as machine learning, statistics and data visualization from the dropdown menu or typing your question in the input box.
-![Dropdown](subjects.png)
+![Dropdown](Subjects.png)
 
 - **Get Insights:** DataMentor offers tailored responses based on the selected topic or your input question, ensuring you receive precise and relevant information.
 
